@@ -1,0 +1,33 @@
+.cricket-score-tracker {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .scoreCount, .wicketCount, .overCount, .status {
+    font-size: 2rem;
+    margin: 10px 0;
+  }
+  
+  .addScore, .addWicket, .addBall {
+    margin: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  button:hover:not(:disabled) {
+    background-color: #0056b3;
+  }
+  
