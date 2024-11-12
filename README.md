@@ -1,3 +1,4 @@
+![Screenshot 2024-11-12 220104](https://github.com/user-attachments/assets/697c9bff-b6c0-4000-8368-65217ff7ab4a)
 
 The `CricketScoreTracker` component is a React app designed to keep track of a cricket game’s score, wickets, and balls bowled. It also determines if India has won based on certain conditions. Here’s a breakdown of the component's functionality:
 
